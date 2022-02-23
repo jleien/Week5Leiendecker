@@ -3,7 +3,9 @@
 *CIS175 23970 - Java II
 *Jan 16, 2022
 **/
-package Model;
+
+
+import Model.Stand;
 
 /**
  * @author jake

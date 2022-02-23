@@ -6,7 +6,8 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Stand Editor</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <form action = "editStandServlet" method="post">
